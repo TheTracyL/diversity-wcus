@@ -1,6 +1,6 @@
 # diversity-wcus
 
-[![Deployment status from DeployBot](https://liljimmi.deploybot.com/badge/66802253948241/119584.svg)](http://deploybot.com)
+[![Deployment status from DeployBot](https://yikesinc.deploybot.com/badge/66802253948241/119584.svg)](http://deploybot.com)
 
 ## Diversity Works - The WordCamp US 2017 edition
 
